@@ -3,12 +3,64 @@
     max-width: 1440px;
     margin: 0 auto;
     font-family: 'Helvetica Neue', Arial, sans-serif;
-    color: #FBFAF7;
     z-index: -1;
   }
   
 .header{
+    border: 1px solid red;
+    background-color: #163A24;
+    height: 100vh;
+    max-height: 98px;   
+    box-sizing: border-box;
     position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.header__content {  
+    /*display: flex;
+    justify-content: space-between;
+    flex-direction: row;*/
+    width: 1180px;
+    height: 58px;
+    margin: 0;
+    padding: 20px 130px;
+}
+
+.logo {
+    width: 153px;
+    height: 58px;
+}
+
+.logo__header {}
+
+.links {
+    height: 58px;
+    width: 590px;
+}
+
+.link {
+    color: #FBFAF7;
+    margin: 0 24px 0 0;
+    font-family: 'Noto Sans', 'Arial';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.79px;
+}
+
+.ellipse {
+    width: 141px;
+    height: 52px;
+    border-radius: 160px;
+    background-color: #198C36;
+    position: absolute;
+    right: 130px;
+    top: 21px;
+    box-sizing: border-box;
+}
+
+.ellipse_link {
+    padding: 15px 25px;
 }
 
 .ph1 {

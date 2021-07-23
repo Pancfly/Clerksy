@@ -1,0 +1,10 @@
+.header{
+    width: 100%;
+    min-height: 98px;
+    background-color: #163A24;
+    box-sizing: border-box;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,3 +1,12 @@
 .interest__card-title {
-    
+    margin: 20px 0 23px;
+    padding: 0 18px 0 0;
+    font-family: 'Recoleta', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 31px;
+    color: #163A24;
+    grid-column: span 2;
+    grid-row: 2;
 }

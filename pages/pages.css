@@ -18,10 +18,11 @@
 @import url(../blocks/running/__text/running__text.css);
 @import url(../blocks/running/__img/running__img.css);
 
-@import url();
-@import url();
-@import url();
-@import url();
+@import url(../blocks/production/production.css);
+@import url(../blocks/production/__list/production__list.css);
+@import url(../blocks/production/__element/production__element.css);
+@import url(../blocks/production/__image/production__image.css);
+
 @import url();
 @import url();
 @import url();

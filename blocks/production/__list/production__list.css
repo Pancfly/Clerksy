@@ -1,0 +1,7 @@
+.production__list {
+    min-width: 1180px;
+    margin: 0;
+    padding: calc(74px - 27px) 0 120px;
+    list-style-type: none;
+    display: flex;
+}

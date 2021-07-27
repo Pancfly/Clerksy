@@ -1,0 +1,8 @@
+.employees__b-image {
+    width: 1180px;
+    height: 335px;
+    margin: 2px 0 0;
+    padding: 0;
+    background-image: url(../../../images/employees/people.svg);
+    object-fit: cover;
+}

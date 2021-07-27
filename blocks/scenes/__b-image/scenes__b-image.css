@@ -1,0 +1,8 @@
+.scenes__b-image {
+    width: 492px;
+    height: 423px;
+    margin: 0;
+    padding: 0;
+    background-image: url(../../../images/scenes/employee-training-and-development.svg);
+    object-fit: cover;
+}

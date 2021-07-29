@@ -1,12 +1,11 @@
-.general-title {
-    margin: 0;
-    margin-bottom: 27px;
+.easy__paragraph {
+    margin: 13px 0 0;
     padding: 0;
     font-family: 'Recoleta', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 600;
-    font-size: 48px;
-    line-height: 54px;
+    font-size: 28px;
+    line-height: 31px;
     text-align: center;
     color: #163A24;
 }

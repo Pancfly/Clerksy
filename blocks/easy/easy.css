@@ -1,0 +1,10 @@
+.easy {
+    width: 100%;
+    margin: 0;
+    padding: 114px 0 124px;
+    background: #F2EFE6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}

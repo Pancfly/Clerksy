@@ -1,0 +1,23 @@
+.getstart__button {
+    width: 258px;
+    height: 52px;
+    margin: 18px 0 0;
+    padding: 0;
+    background-color: #FAB5A0;
+    border: none;
+    border-radius: 160px;
+    text-align: center;
+    font-family: 'Noto Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #163A24;
+    display: block;
+    transition: opacity .7s ease-out;
+}
+
+.getstart__button:hover {
+    opacity: .6;
+    cursor: pointer;
+}

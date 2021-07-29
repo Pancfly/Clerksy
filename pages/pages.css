@@ -7,16 +7,22 @@
 @import url(../blocks/header/__info/header__info.css);
 @import url(../blocks/header/__button/header__button.css);
 
+@import url(../blocks/general-title/general-title.css);
+@import url(../blocks/general-title/_type_color-white/general-title_type_color-white.css);
+@import url(../blocks/general-text/general-text.css);
+@import url(../blocks/general-text/_type_color-white/general-text_type_color-white.css);
+
 @import url(../blocks/running/running.css);
 @import url(../blocks/running/__text-content/running__text-content.css);
 @import url(../blocks/running/__title/running__title.css);
 @import url(../blocks/running/__text/running__text.css);
 @import url(../blocks/running/__img/running__img.css);
 
-@import url();
-@import url();
-@import url();
-@import url();
+@import url(../blocks/hr/hr.css);
+@import url(../blocks/hr/__content/hr__content.css);
+@import url(../blocks/hr/__button/hr__button.css);
+@import url(../blocks/hr/__image/hr__image.css);
+
 @import url();
 @import url();
 @import url();

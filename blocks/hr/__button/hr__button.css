@@ -1,0 +1,23 @@
+.hr__button {
+    width: 191px;
+    height: 52px;
+    margin: 19px 0 0;
+    padding: 0;
+    background-color: #198C36;
+    border: none;
+    border-radius: 160px;
+    font-family: 'Noto Sans', 'Arial', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #FBFAF7;
+    display: block;
+    transition: opacity .7s ease-out;
+}
+
+.hr__button:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}

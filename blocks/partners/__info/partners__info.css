@@ -1,0 +1,10 @@
+.partners__info {
+    min-width: 1180px;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(2, min-content);
+    grid-gap: 100px;
+    align-content: center;
+    justify-content: center;
+}

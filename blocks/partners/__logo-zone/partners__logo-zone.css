@@ -1,0 +1,13 @@
+.partners__logo-zone {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 87px;
+}
+
+.partners__logo-zone:last-of-type {
+    margin: 0;
+}

@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../blocks/page/page.css);
+@import url(../blocks/link/link.css);
 
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -13,15 +14,17 @@
 @import url(../blocks/running/__text/running__text.css);
 @import url(../blocks/running/__img/running__img.css);
 
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
+@import url(../blocks/partners/partners.css);
+@import url(../blocks/partners/__info/partners__info.css);
+@import url(../blocks/partners/__paragraph/partners__paragraph.css);
+@import url(../blocks/partners/__title/partners__title.css);
+@import url(../blocks/partners/__title/_type_center/partners__title_type_center.css);
+@import url(../blocks/partners/__text/partners__text.css);
+@import url(../blocks/partners/__img/partners__img.css);
+@import url(../blocks/partners/__resources/partners__resources.css);
+@import url(../blocks/partners/__logo-zone/partners__logo-zone.css);
+@import url(../blocks/partners/__logo/partners__logo.css);
+
 @import url();
 @import url();
 @import url();

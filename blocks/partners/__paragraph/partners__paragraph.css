@@ -1,0 +1,10 @@
+.partners__paragraph {
+    width: 393px;
+    min-height: 200px;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}

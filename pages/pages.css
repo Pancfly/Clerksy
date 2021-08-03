@@ -11,21 +11,18 @@
 
 @import url(../blocks/general-title/general-title.css);
 @import url(../blocks/general-title/_type_color-white/general-title_type_color-white.css);
+@import url(../blocks/general-title/_type_align-center/general-title_type_align-center.css);
 @import url(../blocks/general-text/general-text.css);
 @import url(../blocks/general-text/_type_color-white/general-text_type_color-white.css);
+@import url(../blocks/general-text/_type_align-center/general-text_type_align-center.css);
 
 @import url(../blocks/running/running.css);
 @import url(../blocks/running/__text-content/running__text-content.css);
-@import url(../blocks/running/__title/running__title.css);
-@import url(../blocks/running/__text/running__text.css);
 @import url(../blocks/running/__img/running__img.css);
 
 @import url(../blocks/partners/partners.css);
 @import url(../blocks/partners/__info/partners__info.css);
 @import url(../blocks/partners/__paragraph/partners__paragraph.css);
-@import url(../blocks/partners/__title/partners__title.css);
-@import url(../blocks/partners/__title/_type_center/partners__title_type_center.css);
-@import url(../blocks/partners/__text/partners__text.css);
 @import url(../blocks/partners/__img/partners__img.css);
 @import url(../blocks/partners/__resources/partners__resources.css);
 @import url(../blocks/partners/__logo-zone/partners__logo-zone.css);
@@ -37,14 +34,11 @@
 @import url(../blocks/production/__image/production__image.css);
 
 @import url(../blocks/employees/employees.css);
-@import url(../blocks/employees/__title-size/employees__title-size.css);
-@import url(../blocks/employees/__text-size/employees__text-size.css);
+@import url(../blocks/employees/__conteiner/employees__conteiner.css);
 @import url(../blocks/employees/__b-image/employees__b-image.css);
 
 @import url(../blocks/scenes/scenes.css);
 @import url(../blocks/scenes/__paragraph/scenes__paragraph.css);
-@import url(../blocks/scenes/__title-align/scenes__title-align.css);
-@import url(../blocks/scenes/__text-align/scenes__text-align.css);
 @import url(../blocks/scenes/__b-image/scenes__b-image.css);
 
 @import url(../blocks/interest/interest.css);

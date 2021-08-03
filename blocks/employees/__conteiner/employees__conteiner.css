@@ -1,11 +1,9 @@
-.employees {
-    width: 100%;
+.employees__conteiner {
+    max-width: 786px;
     margin: 0;
-    padding: 114px 0 135px;
-    background-color: #F2EFE6;
+    padding: 0;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    box-sizing: border-box;
 }

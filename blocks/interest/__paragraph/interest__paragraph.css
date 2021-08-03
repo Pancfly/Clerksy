@@ -1,0 +1,8 @@
+.interest__paragraph {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    grid-column-gap: 11px;
+    align-items: center;
+}

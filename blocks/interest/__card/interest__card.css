@@ -1,0 +1,12 @@
+.interest__card {
+    width: 353px;
+    margin: 0 20px;
+    padding: 50px 0 66px 40px;
+    background-color: #fbfaf7;
+    box-shadow: 5px 5px 20px #e9e4d5;
+    border-radius: 15px;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    grid-template-rows: min-content calc(63px + 20px + 23px) 1fr;
+    grid-gap: 0;
+}

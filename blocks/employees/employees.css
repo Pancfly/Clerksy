@@ -1,0 +1,12 @@
+.employees {
+    width: 100%;
+    min-height: 775px;
+    margin: 0;
+    padding: 114px 0 135px;
+    background-color: #F2EFE6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+}

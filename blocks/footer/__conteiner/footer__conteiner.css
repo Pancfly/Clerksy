@@ -1,0 +1,13 @@
+.footer__conteiner {
+    min-width: 1180px;
+    margin: 0;
+    padding: 24px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer__conteiner:last-of-type {
+    border-top: 1px solid #F2EFE6;
+    margin-top: 19px;
+}

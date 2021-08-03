@@ -1,0 +1,7 @@
+.footer__logo {
+    width: 110px;
+    margin: 0;
+    padding: 0;
+    object-fit: cover;
+    overflow: hidden;
+}
